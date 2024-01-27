@@ -1,6 +1,6 @@
 
 <h1 align="center">
-🅷🅴🅻🅻🅾, 🆆🅾🆁🅻🅳! </h1>
+HELLO, WORLD! </h1>
 
   <h3>I'm QA Software Engineer with experience in QA Automation and Manual Testing </h3>  
   
