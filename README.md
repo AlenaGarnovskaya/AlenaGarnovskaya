@@ -2,6 +2,7 @@
 <h1 align="center">
 🅷🅴🅻🅻🅾, 🆆🅾🆁🅻🅳! </h1>
 
+<h3>I'm QA Software Engineer with experience in QA Automation and Manual Testing </h3>
 
 <!--
 **AlenaGarnovskaya/AlenaGarnovskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
