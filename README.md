@@ -3,7 +3,8 @@
 🅷🅴🅻🅻🅾, 🆆🅾🆁🅻🅳! </h1>
 
   <h3>I'm QA Software Engineer with experience in QA Automation and Manual Testing </h3>
-
+ <a href="[https://www.linkedin.com/in/serinestark/](https://www.linkedin.com/in/alena-garnovskaya/)"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>  
 <!--
 **AlenaGarnovskaya/AlenaGarnovskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
